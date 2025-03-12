@@ -1,1 +1,2 @@
-#asasasasa
+#asasasasaas
+print("hello world")
